@@ -38,9 +38,9 @@ PRODUCT_PACKAGES += \
 # Additional settings used in all AOSP builds
 PRODUCT_PROPERTY_OVERRIDES := \
     ro.com.android.dateformat=MM-dd-yyyy \
-    ro.config.alarm_alert=Argon.ogg \
-    ro.config.ringtone=Orion.ogg \
-    ro.config.notification_sound=pixiedust.ogg
+    ro.config.alarm_alert=Osmium.ogg \
+    ro.config.ringtone=Moto.ogg \
+    ro.config.notification_sound=Moto.ogg
 
 # Put en_US first in the list, so make it default.
 PRODUCT_LOCALES := en_US
